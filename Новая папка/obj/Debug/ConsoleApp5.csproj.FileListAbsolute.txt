@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Новая папка\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Admin\Desktop\Новая папка\bin\Debug\ConsoleApp5.exe
+C:\Users\Admin\Desktop\Новая папка\bin\Debug\ConsoleApp5.pdb
+C:\Users\Admin\Desktop\Новая папка\obj\Debug\ConsoleApp5.exe
+C:\Users\Admin\Desktop\Новая папка\obj\Debug\ConsoleApp5.pdb
